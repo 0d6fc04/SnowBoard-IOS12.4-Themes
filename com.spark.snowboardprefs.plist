@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ActiveMenuItems</key>
+	<array>
+		<string>/Library/Themes/Oyster - Icons.theme</string>
+		<string>/Library/Themes/Oyster - Bagdes.theme</string>
+	</array>
+	<key>CustomCornerRadius</key>
+	<real>15</real>
+	<key>CustomCornerRadiusEnabled</key>
+	<true/>
+	<key>CustomIconSize</key>
+	<real>1</real>
+	<key>CustomIconSizeEnabled</key>
+	<true/>
+	<key>GroupThemes</key>
+	<true/>
+	<key>HideIconOverlays</key>
+	<false/>
+	<key>HideLabelDots</key>
+	<false/>
+	<key>IconOverrides</key>
+	<dict>
+		<key>com.apple.stocks</key>
+		<string>/Library/Themes/Muze 4 (Icons-Alts).theme/IconBundles/com.apple.stocks-large.png</string>
+		<key>com.cydiageek.respringapp</key>
+		<string>/var/mobile/Media/Snowboard/CustomIcons/C3B08459-CD3A-4C83-9FB0-F2ADE35DDBEE.png</string>
+		<key>com.google.Gmail</key>
+		<string>/Library/Themes/01 Original TrueDark - DBXS.theme/IconBundles/com.google.Gmail-large.png</string>
+		<key>com.google.ios.youtube</key>
+		<string>/Library/Themes/00 Original Gradient - DBXS.theme/IconBundles/com.google.ios.youtube-large.png</string>
+		<key>com.google.ios.youtubemusic</key>
+		<string>/Library/Themes/00 Original Gradient - DBXS.theme/IconBundles/com.google.ios.youtubemusic-large.png</string>
+		<key>com.hammerandchisel.discord</key>
+		<string>Original-com.hammerandchisel.discord</string>
+		<key>com.hulu.plus</key>
+		<string>/Library/Themes/00 Original Gradient - DBXS.theme/IconBundles/com.hulu.plus-large.png</string>
+		<key>com.kurrt.safeshutdownapp</key>
+		<string>/Library/Themes/Muze 4 (Icons).theme/IconBundles/GameStop.png</string>
+		<key>com.netflix.Netflix</key>
+		<string>/Library/Themes/00 Original Gradient - DBXS.theme/IconBundles/com.netflix.Netflix-large.png</string>
+		<key>science.xnu.undecimus</key>
+		<string>/Library/Themes/Muze 4 (Icons-Alts).theme/IconBundles/science.xnu.undecimus-large.png</string>
+	</dict>
+	<key>ShownWelcome</key>
+	<integer>1</integer>
+	<key>SnowBoardPresetId</key>
+	<string>Oyster</string>
+</dict>
+</plist>
